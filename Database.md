@@ -28,14 +28,14 @@ A database is a set of structured information. The information contained depends
 ## Forms and Validation
 
 
-## Form
+**Form**
 
 
 ![](https://i.imgur.com/oDx8F0f.png)
 ![](https://i.imgur.com/2zYLgBf.png)
 
 
-## Validation 
+**Validation** 
 
 
 ![](https://i.imgur.com/Zs2PO62.png)
