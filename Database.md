@@ -68,7 +68,7 @@ Form showing a 'BLUETEAM' Character 'NAME', 'DAMAGE', and 'HP'.
 ![](https://i.imgur.com/oDx8F0f.png)
 
 
-Form showing the 'OVERALL DAMAGE' of 'BLUETEAM ID' + 'WEAPON ID'
+Form showing the 'OVERALL DAMAGE' of 'BLUETEAM_ID' + 'WEAPON_ID' 
 
 
 ![](https://i.imgur.com/2zYLgBf.png)
@@ -89,7 +89,7 @@ Report showing a 'BLUETEAM' Character 'NAME', 'DAMAGE', and 'HP'.
 ![](https://i.imgur.com/Eqcv2Dd.png)
 
 
-Report showing the 'OVERALL DAMAGE' of 'BLUETEAM ID' + 'WEAPON ID'
+Report showing the 'OVERALL DAMAGE' of 'BLUETEAM_ID' + 'WEAPON_ID'
 
 
 ![](https://i.imgur.com/UjIEg8B.png)
