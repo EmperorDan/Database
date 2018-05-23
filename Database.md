@@ -54,6 +54,7 @@ A database is a set of structured information. The information contained depends
 
 ![](https://i.imgur.com/kiTTOht.png)
 
+## SQL Commands
 
 **Create**
 
