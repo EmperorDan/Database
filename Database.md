@@ -115,8 +115,8 @@ To create a 'Table' in 'Microsoft Access' i used SQL code. I used the following 
 CREATE TABLE BLUETEAM (
   ID INT NOT NULL PRIMARY KEY,
   NAME VARCHAR(50) NOT NULL,
-  HP FLOAT NOT NULL,
-  DAMAGE FLOAT NOT NULL
+  DAMAGE FLOAT NOT NULL,
+  HP FLOAT NOT NULL
   );
 ```
 
@@ -125,18 +125,31 @@ To insert information into my newly created table I used the following SQL comma
 
 ```SQL
 INSERT INTO BLUETEAM VALUES(
-1, '
+  1, 'GREGOR', 350, 1000
+);
 ```
 
 ## Update
+This is a simple command that allows you to update information in a field. Below is the Command I used to update 'GREGOR's information.
 
+```SQL
+UPDATE BLUETEAM
+  SET DAMAGE = 1000
+  WHERE NAME LIKE 'GREGOR';
+```
 
 ## Delete
+To dedlete things using SQL is easy, but you have to be mindful of what you've selected to delete. Below is the Command i used to delete 'BILBO' a character in my 'REDTEAM'.
 
+```SQL
+DELETE FROM REDTEAM
+  WHERE NAME='BILBO';
+```
 
 ## Select
+To bring up specific information from a table you have created, you have to use the below command.
 
-
-
-
-
+```SQL
+SELECT DAMAGE
+FROM BLUETEAM;
+```
