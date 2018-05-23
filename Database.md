@@ -3,14 +3,20 @@ A database is a set of structured information. The information contained depends
 
 
 **ERD**
+
+
 ![](https://i.imgur.com/5vEVdFi.png)
 
 
 **Data Dictionary**
+
+
 ![](https://i.imgur.com/7kqx1X9.png)
 
 
 **User Stories**
+
+
 "As a user I would like to see a list of BLUETEAM's characters"
 "As a user I would like to see a list of REDTEAM's characters"
 "As a user I would like to see the damage statistic for each character in BLUETEAM"
@@ -20,20 +26,32 @@ A database is a set of structured information. The information contained depends
 
 
 **Forms and Validation**
+
+
 **Form**
+
+
 ![](https://i.imgur.com/oDx8F0f.png)
 ![](https://i.imgur.com/2zYLgBf.png)
 
+
 **Validation**
+
+
 ![](https://i.imgur.com/Zs2PO62.png)
 ![](https://i.imgur.com/azOmQ8s.png)
 
 
 **Reports**
+
+
 ![](https://i.imgur.com/Eqcv2Dd.png)
 ![](https://i.imgur.com/UjIEg8B.png)
 
+
 **Test Plan**
+
+
 ![](https://i.imgur.com/kiTTOht.png)
 
 
