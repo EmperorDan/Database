@@ -1,62 +1,45 @@
 # User Manual
 
-1.0	GENERAL INFORMATION
+**1.0 Overview**	
+This system was created so that character statistics for BLUE/REDTEAM could be recorded, and easily edited. User's of this database will be able to easily create Forms, and Reports containing the information provided. 
 
-1.1	System Overview
+**2.0 Assumptions/Constraints/Risks**	
 
-1.2	Project References
+2.1 Assumptions	
 
-1.3	Points of Contact
+2.2. Constraints	
 
-1.3.1	Help Desk
+2.3 Risks	
 
-1.4	Organization of the Manual
+**3.0 Design Decisions**	
 
-1.5	Acronyms and Abbreviations
+3.1 Key Factors Influencing Design	
 
-2.1	System Configuration
+3.2 Functional Design Decisions	
 
-2.2	Data Flows
+3.3 Database Management System Decisions	
 
-2.3	Contingencies and Alternate Modes of Operation
+3.4 Security and Privacy Design Decisions	
 
-3.1	System Menu
+3.5 Performance and Maintenance Design Decisions	
 
-3.1.1	Main Interface
+**4.0 Detailed Database Design**
 
-3.1.2	New Customer
+4.1 Data Software Objects and Resultant Data Structures	
 
-3.1.3	New Items
+**5.0 Database Administration and Monitoring**
 
-3.1.4	New Bids
+5.1 Roles and Responsibilities	
 
-3.1.5	New Donor
+5.2 Performance Monitoring and Database Efficiency	
 
-3.1.6	Search Customer
+5.3 Backup and Recovery	
 
-3.1.7	Search Item
 
-3.1.8	Search Bids
 
-3.1.9	Search Donors
 
-3.1.10	Delete Customer by Customer ID
 
-3.1.11	Exporting Data to Excel
 
-3.2	Exit System
-
-4.1 Querying
-
-4.2	Query Capabilities
-
-4.3	Query Procedures
-
-5.1	Reporting
-
-5.2	Report Capabilities
-
-5.3	Report Procedures
 
 
 
