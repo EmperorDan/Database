@@ -64,46 +64,43 @@ ER-modeling is a data modeling technique used in software engineering to produce
 
 
 
-## Forms and Validation
+### Forms
 
-
-**Form**
-
-Form showing a 'BLUETEAM' Character 'NAME', 'DAMAGE', and 'HP'.
+**Form showing a 'BLUETEAM' Character 'NAME', 'DAMAGE', and 'HP'.**
 
 
 ![](https://i.imgur.com/HRf9BED.png)
 
 
-Form showing the 'OVERALL DAMAGE' of 'BLUETEAM_ID' + 'WEAPON_ID' 
+**Form showing the 'OVERALL DAMAGE' of 'BLUETEAM_ID' + 'WEAPON_ID'** 
 
 
 ![](https://i.imgur.com/tGHVygs.png)
 
 
-**Validation** 
+### Validation
 
 
 ![](https://i.imgur.com/Zs2PO62.png)
 ![](https://i.imgur.com/azOmQ8s.png)
 
 
-## Reports
+### Reports
 
-Report showing all 'BLUETEAM' Character's 'NAME', 'DAMAGE', and 'HP'.
+**Report showing all 'BLUETEAM' Character's 'NAME', 'DAMAGE', and 'HP'.**
 
 
 ![](https://i.imgur.com/PmlRXEd.png)
 
 
-Report showing the 'OVERALL DAMAGE' of 'BLUETEAM_ID' + 'WEAPON_ID'
+**Report showing the 'OVERALL DAMAGE' of 'BLUETEAM_ID' + 'WEAPON_ID'**
 
 
 ![](https://i.imgur.com/Rue1B61.png)
 
 
 
-## Test Plan
+### Test Plan
 
 
 ![](https://i.imgur.com/kiTTOht.png)
@@ -111,7 +108,7 @@ Report showing the 'OVERALL DAMAGE' of 'BLUETEAM_ID' + 'WEAPON_ID'
 
 ## SQL Commands
 
-**Create**
+### Create
 To create a 'Table' in 'Microsoft Access' i used SQL code. I used the following command to produce the desired result:
 
 ```SQL
@@ -123,7 +120,7 @@ CREATE TABLE BLUETEAM (
   );
 ```
 
-**Insert**
+## Insert
 To insert information into my newly created table I used the following SQL command:
 
 ```SQL
@@ -131,10 +128,15 @@ INSERT INTO BLUETEAM VALUES(
 1, '
 ```
 
-**Update**
+## Update
 
 
-**Delete**
+## Delete
 
 
-**Select**
+## Select
+
+
+
+
+
