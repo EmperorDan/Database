@@ -18,11 +18,43 @@ A database is a set of structured information. The information contained depends
 
 
 "As a user I would like to see a list of BLUETEAM's characters"
+
+
 "As a user I would like to see a list of REDTEAM's characters"
+
+
 "As a user I would like to see the damage statistic for each character in BLUETEAM"
+
+
 "As a user I would like to see the damage statistic for each character in REDTEAM"
+
+
 "As a user I would like to see a list of Weapon's"
+
+
 "As a user I would like to see the overall damage of Characters, combined with their associated weapon"
+
+
+## System Requirements
+
+
+"I need to be able to see a list of BLUETEAM's characters"
+
+
+"I need to be able to see a list of REDTEAM's characters"
+
+
+"I need to be able to see the damage statistic for each character in BLUETEAM"
+
+
+"I need to be able to see the damage statistic for each character in REDTEAM"
+
+
+"I need to be able to see a list of Weapon's"
+
+
+"I need to be able to see the overall damage of Characters, combined with their associated weapon"
+
 
 
 ## Forms and Validation
