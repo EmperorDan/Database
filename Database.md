@@ -62,8 +62,15 @@ A database is a set of structured information. The information contained depends
 
 **Form**
 
+Form showing a 'BLUETEAM' Character 'NAME', 'DAMAGE', and 'HP'.
+
 
 ![](https://i.imgur.com/oDx8F0f.png)
+
+
+Form showing the 'OVERALL DAMAGE' of 'BLUETEAM ID' + 'WEAPON ID'
+
+
 ![](https://i.imgur.com/2zYLgBf.png)
 
 
@@ -76,15 +83,24 @@ A database is a set of structured information. The information contained depends
 
 ## Reports
 
+Report showing a 'BLUETEAM' Character 'NAME', 'DAMAGE', and 'HP'.
+
 
 ![](https://i.imgur.com/Eqcv2Dd.png)
+
+
+Report showing the 'OVERALL DAMAGE' of 'BLUETEAM ID' + 'WEAPON ID'
+
+
 ![](https://i.imgur.com/UjIEg8B.png)
+
 
 
 ## Test Plan
 
 
 ![](https://i.imgur.com/kiTTOht.png)
+
 
 ## SQL Commands
 
