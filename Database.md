@@ -64,7 +64,7 @@ ER-modeling is a data modeling technique used in software engineering to produce
 
 
 
-### Forms
+## Forms
 
 **Form showing a 'BLUETEAM' Character 'NAME', 'DAMAGE', and 'HP'.**
 
@@ -78,14 +78,14 @@ ER-modeling is a data modeling technique used in software engineering to produce
 ![](https://i.imgur.com/tGHVygs.png)
 
 
-### Validation
+## Validation
 
 
 ![](https://i.imgur.com/Zs2PO62.png)
 ![](https://i.imgur.com/azOmQ8s.png)
 
 
-### Reports
+## Reports
 
 **Report showing all 'BLUETEAM' Character's 'NAME', 'DAMAGE', and 'HP'.**
 
@@ -100,15 +100,15 @@ ER-modeling is a data modeling technique used in software engineering to produce
 
 
 
-### Test Plan
+## Test Plan
 
 
 ![](https://i.imgur.com/kiTTOht.png)
 
 
-## SQL Commands
+# SQL Commands
 
-### Create
+## Create
 To create a 'Table' in 'Microsoft Access' i used SQL code. I used the following command to produce the desired result:
 
 ```SQL
