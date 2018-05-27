@@ -1,9 +1,9 @@
 # User Manual
 
-**1.0 Overview**	
+## 1.0 Overview 
 This system was created so that character statistics for BLUE/REDTEAM could be recorded, and easily edited. User's of this database will be able to easily create Forms, and Reports containing the information provided. 
 
-## 2.0 Risks/contingencies**	
+## 2.0 Risks/contingencies
 
 **2.1 Risks**
 There are many risks while creating a database. The following are some that you may encounter:
